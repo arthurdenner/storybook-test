@@ -9,7 +9,7 @@
     "react-dom": "^16.8.6"
   },
   "scripts": {
-    "build": "",
+    "build": "node index.js",
     "storybook:build": "build-storybook",
     "storybook": "start-storybook",
     "dev": "start-storybook --port $PORT"
